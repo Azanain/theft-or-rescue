@@ -4,8 +4,5 @@ using UnityEngine;
 
 public class AchievementsManager : MonoBehaviour
 {
-    private void Update()
-    {
-        
-    }
+    
 }
